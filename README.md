@@ -1,4 +1,4 @@
-# Rotor-Cuda v1.04
+# Rotor-Cuda v1.05
 ![alt text](Others/Rotor-Cuda.jpg "Rotor-Cuda")
 This is a modified version of KeyHunt v1.7 by [kanhavishva](https://github.com/kanhavishva/KeyHunt-Cuda).
 A lot of gratitude to all the developers whose codes has been used here.
